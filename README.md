@@ -14,7 +14,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ## Screenshots
-![ProceduralPrimitives](https://user-images.githubusercontent.com/21966381/130729540-6274618b-7bdd-4307-b8c7-af1184158cef.png)
+![image](https://user-images.githubusercontent.com/21966381/130729996-ce17f055-a375-4081-a8d5-ea945b111f64.png)
 
 ## Usage
 
