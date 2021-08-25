@@ -24,7 +24,7 @@ Procedural builder for some basic primitives in Unity
         _sphere.Generate(
             radius: 1f,
             level: 4,
-            _yellowMaterial
+            _redMaterial
         );
 ```
 ### Box
@@ -35,7 +35,7 @@ Procedural builder for some basic primitives in Unity
             height: 1f,
             depth: 1f,
             segments: 4, 
-            _blueMaterial
+            _yellowMaterial
         );
 ```
 
@@ -73,7 +73,7 @@ Procedural builder for some basic primitives in Unity
             minorRadius: .25f,
             majorSegment: 24,
             minorSegment: 16,
-            _redMaterial
+            _yellowMaterial
         );
 ```
 
@@ -85,7 +85,7 @@ Procedural builder for some basic primitives in Unity
             height: 6f,
             divX: 12,
             divY: 12,
-            _yellowMaterial
+            _blueMaterial
         );
 ```
 
@@ -105,7 +105,7 @@ Procedural builder for some basic primitives in Unity
         _polyhedron.Generate(
             type: SolidType.Icosahedron,
             size: 1f,
-            _blueMaterial
+            _redMaterial
         );
 ```
 
