@@ -63,3 +63,11 @@ UserSettings/
 ProjectSettings/
 Packages/
 Logs/
+
+.DS_Store
+
+Assets/Fantasy\ Skybox\ FREE/
+Assets/Fantasy\ Skybox\ FREE.meta
+
+Assets/Scenes/PlayGround.unity
+Assets/Scenes/PlayGround.unity.meta

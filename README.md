@@ -19,6 +19,7 @@ Procedural builder for some basic primitives in Unity
 ## Usage
 
 ### Sphere
+![image](https://user-images.githubusercontent.com/21966381/130739406-704f4764-b695-4948-a9de-7f876f741976.png)
 ```cs
         _sphere.Generate(
             radius: 1f,
@@ -27,6 +28,7 @@ Procedural builder for some basic primitives in Unity
         );
 ```
 ### Box
+![image](https://user-images.githubusercontent.com/21966381/130738860-27090e4b-f159-46e3-b7db-6f5736d53b49.png)
 ```cs
         _box.Generate(
             width: 1f,
@@ -38,6 +40,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ### Cylinder
+![image](https://user-images.githubusercontent.com/21966381/130739146-771e899d-d283-490c-a2ce-5d0c20217894.png)
 ```cs
         _cylinder.Generate(
             radialSegments: 24,
@@ -50,6 +53,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ### Capsule
+![image](https://user-images.githubusercontent.com/21966381/130738972-aa632a8d-58c2-4383-9a3f-345942016bb2.png)
 ```cs
         _capsule.Generate(
             radius: 0.5f,
@@ -62,6 +66,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ### Torus
+![image](https://user-images.githubusercontent.com/21966381/130739654-c24f1c1c-f523-4dab-9c19-7bcb18f7382a.png)
 ```cs
         _torus.Generate(
             majorRadius: .5f,
@@ -73,6 +78,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ### Grid(Terrain)
+![image](https://user-images.githubusercontent.com/21966381/130739845-5d56a748-0011-43e8-8818-6f62310c5b31.png)
 ```cs
         _grid.Generate(
             width: 12f,
@@ -84,7 +90,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ### Polygon
-
+![image](https://user-images.githubusercontent.com/21966381/130740407-80fb2766-b1ef-44fa-8bc0-f4f185bb1635.png)
 ```cs
         _polygon.Generate(
             shape: 3,
@@ -94,6 +100,7 @@ Procedural builder for some basic primitives in Unity
 ```
 
 ### Polyhedron
+![image](https://user-images.githubusercontent.com/21966381/130741449-d83028f1-ba9b-4740-9a9a-f75a143113b0.png)
 ```cs
         _polyhedron.Generate(
             type: SolidType.Icosahedron,
