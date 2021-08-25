@@ -18,7 +18,7 @@ Procedural builder for some basic primitives in Unity
 
 ## Usage
 
-### Sphere
+### [Sphere](https://github.com/ogrew/Unity-ProceduralPrimitives/blob/main/Assets/Scripts/3D/Sphere/SphereBuilder.cs)
 ![image](https://user-images.githubusercontent.com/21966381/130739406-704f4764-b695-4948-a9de-7f876f741976.png)
 ```cs
         _sphere.Generate(
